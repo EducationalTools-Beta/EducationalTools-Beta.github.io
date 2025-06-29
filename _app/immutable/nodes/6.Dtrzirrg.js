@@ -1,0 +1,1 @@
+import{f as o,a as r}from"../chunks/IUVMCriR.js";import"../chunks/BC_4ITut.js";var e=o('<iframe src="https://educationaltools.github.io/status/" title="Status" frameborder="0" class="h-full w-full"></iframe>');function i(t){var a=e();r(t,a)}export{i as component};

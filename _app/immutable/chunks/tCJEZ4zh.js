@@ -1,1 +1,0 @@
-import{u as c,E as s,v as i,w as h,x as r,y as p,z as u}from"./BFCM5L_S.js";function m(t,f,o){r&&p();var n=t,a,e;c(()=>{a!==(a=f())&&(e&&(h(e),e=null),a&&(e=i(()=>o(n,a))))},s),r&&(n=u)}export{m as c};

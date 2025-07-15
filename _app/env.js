@@ -1,1 +1,1 @@
-export const env={}
+export const env={"PUBLIC_CONVEX_URL":"","PUBLIC_CLERK_PUBLISHABLE_KEY":""}
